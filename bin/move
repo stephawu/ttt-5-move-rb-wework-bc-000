@@ -7,6 +7,6 @@ puts "Welcome to Tic Tac Toe! Where would you like to go?"
 
 display_board
 
-player1 = gets.strip
+user_input = gets.strip
 
-move(player1)
+input_to_index(user_input)
