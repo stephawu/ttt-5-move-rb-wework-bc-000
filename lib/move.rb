@@ -8,7 +8,7 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index()
-  puts "#"
+def input_to_index(x)
+  puts "#{x}"
   
 end
