@@ -17,5 +17,4 @@ end
 
 def move(board, index, current_player = "X")
   board[index] = current_player
-  update_array_at_with(board, 0, "Red")
 end
