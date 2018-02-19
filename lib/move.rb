@@ -11,12 +11,12 @@ end
 # code your input_to_index and move method here!
 
 input = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
-def input_to_index(input)
-  puts "#{input[0]}, "
-  
+
+def input_to_index(index)
+to_
 end
 
 def move
-  
+
   
 end
