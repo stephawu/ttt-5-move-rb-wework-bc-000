@@ -18,3 +18,11 @@ end
 def move(board, index, current_player = "X")
   board[index] = current_player
 end
+
+
+def update_array_at_with(array, index, value)
+  board = [" ", " ", " "]
+  array[index] = value
+end
+ 
+update_array_at_with(board, 0, "Red")
