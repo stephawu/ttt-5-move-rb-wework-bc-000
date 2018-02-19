@@ -8,7 +8,12 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index(x)
+def input_to_index(player1)
   puts "#{x}"
+  
+end
+
+def move
+  
   
 end
