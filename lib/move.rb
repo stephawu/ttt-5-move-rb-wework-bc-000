@@ -12,7 +12,7 @@ end
 
 
 def input_to_index(user_input)
-  puts "#{user_input} + 1"
+  puts (user_input - 1)
 end
 
 def move
